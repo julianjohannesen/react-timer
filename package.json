@@ -1,0 +1,21 @@
+{
+  "name": "react-timer",
+  "version": "1.0.0",
+  "description": "A stop watch application built with React.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "timer",
+    "watch",
+    "stop-watch"
+  ],
+  "author": "Julian Johannesen",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3"
+  }
+}
